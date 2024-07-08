@@ -23,7 +23,6 @@ This repository contains the code for a travel agency website built using HTML, 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **Bootstrap 5.3.2**
 - **Font Awesome 6.5.2**
 - **Google Fonts**
